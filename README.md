@@ -34,8 +34,8 @@ Description rapide (1-2 lignes)
 
 ## 📈 Statistiques GitHub
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)  
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Coquetic&show_icons=true&theme=tokyonight)  
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coquetic&layout=compact&theme=tokyonight)
 
 ---
 
