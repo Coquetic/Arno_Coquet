@@ -1,6 +1,6 @@
 # 👋 Salut, je suis Arno Coquet !  
 
-🎯 **Étudiant / Ingénieur / Développeur** passionné par la Data, l'IoT, le Dev, le Cloud et etc.]  
+🎯 **Étudiant / Ingénieur / Développeur** passionné par la Data, l'IoT, le Dev, le Cloud et etc.  
 🌍 Basé à Rennes
 📫 Me contacter : arno.coquet35@gmail.com | [LinkedIn](https://linkedin.com/in/arno-coquet)  
 
