@@ -17,27 +17,18 @@
 
 ## 📌 Projets mis en avant
 
-### 🔹 [Projet A](https://github.com/username/ProjetA)
+### 🔹 [Projet A]([https://github.com/username/ProjetA](https://github.com/Coquetic/NASA_API_ETL_Celestial_bodies_-_Fireballs))
 Description rapide (1-2 lignes)  
-- **Stack** : Python, FastAPI, PostgreSQL  
-- **Objectif** : [résumer ce que fait le projet]  
-- ⭐ Fonctionnalité clé : [feature cool du projet]
+- **Stack** : Python, FastAPI, Vue.js
+- **Objectif** : Visualiser & Analyser les objets célestes ainsi que les Fireballs enregistré par la NASA. 
+- ⭐ Fonctionnalité clé : Fireball & CAD Dashboards + une interface home avec animation 3D.
 
 ---
 
-### 🔹 [Projet B](https://github.com/username/ProjetB)
+### 🔹 [Projet B]([https://github.com/username/ProjetB](https://github.com/Coquetic/AOPCS_Lambda))
 Description rapide (1-2 lignes)  
-- **Stack** : Vue.js, Node.js  
-- **Objectif** : [résumer ce que fait le projet]  
-- 🌍 Déployé ici : [lien si en ligne]  
-
----
-
-### 🔹 [Projet C](https://github.com/username/ProjetC)
-Description rapide (1-2 lignes)  
-- **Stack** : Python, IoT, MQTT  
-- **Objectif** : [résumer ce que fait le projet]  
-- 📡 Lié à : [stage, mission, cours…]  
+- **Stack** : Python, AWS, CDK  
+- **Objectif** : Extraire ,Transformer et Charger (ETL) des données de constellations satellitaire dans une infrastructure AWS pour faire de la prévision de passage satellitaire.
 
 ---
 
@@ -49,4 +40,4 @@ Description rapide (1-2 lignes)
 ---
 
 ## 🎯 Objectif actuel
-👉 [Exemple : Devenir Data Engineer expert | Contribuer à des projets open-source | Monter en compétences sur AWS]
+👉 Devenir Data Engineer expert | Contribuer à des projets open-source | Monter en compétences sur AWS
