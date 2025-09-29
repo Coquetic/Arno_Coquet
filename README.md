@@ -1,8 +1,8 @@
-# 👋 Salut, je suis [Ton Prénom]  
+# 👋 Salut, je suis Arno Coquet !  
 
-🎯 **Étudiant / Ingénieur / Développeur** passionné par [tes domaines : Data, IoT, Dev, etc.]  
-🌍 Basé à [ville/pays]  
-📫 Me contacter : [email] | [LinkedIn](https://linkedin.com/in/tonprofil) | [Portfolio perso (si tu en fais un plus tard)]  
+🎯 **Étudiant / Ingénieur / Développeur** passionné par la Data, l'IoT, le Dev, le Cloud et etc.]  
+🌍 Basé à Rennes
+📫 Me contacter : arno.coquet35@gmail.com | [LinkedIn](https://linkedin.com/in/arno-coquet)  
 
 ---
 
